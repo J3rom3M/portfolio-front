@@ -11,8 +11,8 @@
     </p>
     <h3>Experiences :</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
+      <li><a href="https://github.com/J3rom3M" target="_blank" rel="noopener">Mon profil Github</a></li>
+      <li><a href="https://www.linkedin.com/in/jerome-magnier-78120/" target="_blank" rel="noopener">Mon profil Linkedin</a></li>
     </ul>
     <h3>Diplômes et certifications :</h3>
     <ul>
